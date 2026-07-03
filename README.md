@@ -31,7 +31,8 @@ sakshi_gadewar = {
 
 Hi, I'm Sakshi 👋
 
-I'm an Electronics & Telecommunication Engineering graduate with a strong interest in Data Analytics. I enjoy transforming data into meaningful insights through interactive dashboards and data-driven problem solving.
+I'm an Electronics & Telecommunication Engineering graduate with a strong interest in Data Analytics.
+ I enjoy transforming data into meaningful insights through interactive dashboards and data-driven problem solving.
 
 I'm currently strengthening my skills in SQL and Python while building hands-on projects using Power BI and Excel.
 
