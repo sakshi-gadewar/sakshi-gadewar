@@ -21,7 +21,6 @@
 sakshi_gadewar = {
     "role"                : "Aspiring Data Analyst",
     "education"           : "B.E. in Electronics & Telecommunication Engineering",
-    "location"            : "Maharashtra, India",
     "status"              : "Open to Data Analyst opportunities",
     "tools"               : ["Power BI", "Excel"],
     "currently_learning"  : ["SQL", "Python for Data Analysis"],
@@ -31,8 +30,7 @@ sakshi_gadewar = {
 
 Hi, I'm Sakshi 👋
 
-I'm an Electronics & Telecommunication Engineering graduate with a strong interest in Data Analytics.
- I enjoy transforming data into meaningful insights through interactive dashboards and data-driven problem solving.
+I'm an Electronics & Telecommunication Engineering graduate with a strong interest in Data Analytics. I enjoy transforming data into meaningful insights through interactive dashboards and data-driven problem solving.
 
 I'm currently strengthening my skills in SQL and Python while building hands-on projects using Power BI and Excel.
 
